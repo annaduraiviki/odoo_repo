@@ -1,7 +1,7 @@
 {
 'name': "Vehicle management system",
 'summary': "Vehicle manufacturing system management system",
-'description':""" Vehicle manufacturing system management system. Maintain Vechicle service with custom""",
+'description':""" Vehicle manufacturing system management system. Maintain Vechicle service with custom. Development stage""",
 'author': "VA",
 'website': "viki2.odoo.com",
 'category': 'custom',
