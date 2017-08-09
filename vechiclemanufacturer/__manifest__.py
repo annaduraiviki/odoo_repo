@@ -1,10 +1,10 @@
 {
 'name': "Vehicle management system",
 'summary': "Vehicle manufacturing system management system",
-'description':""" Viki""",
-'author': "viki",
+'description':""" Vehicle manufacturing system management system. Maintain Vechicle service with custom""",
+'author': "VA",
 'website': "viki2.odoo.com",
-'category': 'uncategorized',
+'category': 'custom',
 'version':'10.c',
 'depends':['base','sale','mail','customcountrystate','board'],
 'data':[
